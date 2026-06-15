@@ -36,7 +36,7 @@ An automated tool to scrape, filter, and consolidate internship listings from mu
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/Internshipfilter.git
+   git clone https://github.com/Anu-don/Internshipfilter.git
    cd Internshipfilter
    ```
 
